@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+button{
+    border: none;
+    background-color: #363636;
+    color: #fff;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    outline: none;
+}
+
